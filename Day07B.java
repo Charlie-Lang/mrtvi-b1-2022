@@ -1,4 +1,4 @@
-package mattrosejavab1compiled;
+package Week2;
 
 public class Day07B {
     public static void main(String[] args) {

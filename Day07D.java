@@ -1,4 +1,4 @@
-package mattrosejavab1compiled;
+package Week2;
 import java.util.Scanner;
         
 // https://lucid.app/lucidchart/350510e2-c382-4db8-a244-283544d25bd4/view?page=nsUkI4AnDAoA#

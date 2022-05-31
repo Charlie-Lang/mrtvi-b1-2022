@@ -1,4 +1,4 @@
-package mattrosejavab1compiled;
+package Week2;
 import java.util.Scanner;
 
 public class Day07A {
